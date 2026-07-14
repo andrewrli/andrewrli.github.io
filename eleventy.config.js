@@ -3,5 +3,5 @@ export const config = {
     input: "content",
     includes: "../_includes",
     data: "../_data",
-  }
+  },
 };
