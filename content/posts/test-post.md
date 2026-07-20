@@ -1,6 +1,6 @@
 ---
 title: Test post
-layout: layouts/base.liquid
+date: 2026-07-20
 ---
 
 Lorem ipsum dolor sit amet&hellip;

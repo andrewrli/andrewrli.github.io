@@ -1,0 +1,12 @@
+---
+layout: layouts/base.liquid
+---
+<hgroup>
+  <h1>{{ title }}</h1>
+  <p>
+    <time datetime="{{ page.date | date: '%Y-%m-%d', 'UTC' }}">
+      {{ page.date | date: '%B %d, %Y', 'UTC' }}
+    </time>
+  </p>
+</hgroup>
+{{ content }}
