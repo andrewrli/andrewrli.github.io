@@ -6,4 +6,4 @@ Welcome to my website! My name is **Andrew&nbsp;R.&nbsp;Li**, and I am an underg
 
 I mainly plan for this website to be a place to record some of my thoughts. As such, here is a list of my blog posts:
 
-- [Test post](posts/test-post)
+{% include 'postslist.liquid' %}
